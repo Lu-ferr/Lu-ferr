@@ -6,11 +6,12 @@ Sou formado em Gestão de negócios e estou concluindo meu MBA em Gestão de Pro
 #Mackenzista
 - 🔭 I’m currently working on Python; Powerfx.
 
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> 
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+      
 - 🌱 I’m currently learning Python and new technologies;
-- 💬 Ask me about whatever you really need;
+
 ## Contatos:
 
 <div>
