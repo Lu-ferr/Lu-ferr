@@ -9,9 +9,10 @@ Sou formado em Gestão de negócios e estou concluindo meu MBA em Gestão de Pro
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 
-<div class="tenor-gif-embed" data-postid="7159479166447750351" data-share-method="host" data-aspect-ratio="1.33929" data-width="100%"><a href="https://tenor.com/view/phew-gif-7159479166447750351">Phew GIF</a>from <a href="https://tenor.com/search/phew-gifs">Phew GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-      
-## Contatos:
+<div> 
+class="tenor-gif-embed" data-postid="7159479166447750351" data-share-method="host" data-aspect-ratio="1.33929" data-width="100%"><a href="https://tenor.com/view/phew-gif-7159479166447750351">Phew GIF</a>from <a href="https://tenor.com/search/phew-gifs">Phew GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div>      
+## Reach me:
 
 <div>
 <a href = "mailto:fe.luanferreira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
