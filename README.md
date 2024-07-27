@@ -1,16 +1,13 @@
-# Hello, my name is Luan!
-# Olá, me chamo Luan ! 
+# Hello, my name is Luan! ; # Olá, me chamo Luan ! 
 
-## Bem vindo ao meu perfil GitHub 👋
-## Welcome to my github profile 👋
+## Bem vindo ao meu perfil GitHub 👋 ; ## Welcome to my github profile 👋
 
 Sou formado em Gestão de negócios e estou concluindo meu MBA em Gestão de Projetos.
 #Mackenzista
 - 🔭 I’m currently working on Python; Powerfx.
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> 
           
 - 🌱 I’m currently learning Python and new technologies;
 - 💬 Ask me about whatever you really need;
