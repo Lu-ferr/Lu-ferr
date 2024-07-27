@@ -1,4 +1,4 @@
-# Hello, my name is Luan! ; # Olá, me chamo Luan ! 
+# Hello, my name is Luan! ; Olá, me chamo Luan ! 
 
 ## Bem vindo ao meu perfil GitHub 👋 ; ## Welcome to my github profile 👋
 
